@@ -1,0 +1,27 @@
+{
+  "name": "@patternson/library-view",
+  "version": "0.1.0",
+  "description": "components for patternson library view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/patternsonio/library-view.git"
+  },
+  "author": "Lasse & Hannes Diercks <moin@patternson.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patternsonio/library-view/issues"
+  },
+  "homepage": "https://github.com/patternsonio/library-view#readme",
+  "devDependencies": {
+    "eslint": "5.0.0",
+    "eslint-config-airbnb-base": "13.0.0",
+    "eslint-config-prettier": "2.9.0",
+    "eslint-plugin-import": "2.13.0",
+    "eslint-plugin-prettier": "2.6.1",
+    "prettier": "1.13.6"
+  }
+}
